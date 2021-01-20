@@ -4,7 +4,8 @@ package com.UQ;
         of the number, otherwise returns "??". This should be done twice, each time using one of the
         methods listed below:
         1. A switch statement
-        2. An array of Strings  */
+        2. An array of Strings
+         */
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
